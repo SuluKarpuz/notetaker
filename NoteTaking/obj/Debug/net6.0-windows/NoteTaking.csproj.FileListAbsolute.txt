@@ -1,0 +1,17 @@
+C:\Users\egedi\source\repos\NoteTaking\NoteTaking\bin\Debug\net6.0-windows\NoteTaking.exe
+C:\Users\egedi\source\repos\NoteTaking\NoteTaking\bin\Debug\net6.0-windows\NoteTaking.deps.json
+C:\Users\egedi\source\repos\NoteTaking\NoteTaking\bin\Debug\net6.0-windows\NoteTaking.runtimeconfig.json
+C:\Users\egedi\source\repos\NoteTaking\NoteTaking\bin\Debug\net6.0-windows\NoteTaking.dll
+C:\Users\egedi\source\repos\NoteTaking\NoteTaking\bin\Debug\net6.0-windows\NoteTaking.pdb
+C:\Users\egedi\source\repos\NoteTaking\NoteTaking\obj\Debug\net6.0-windows\NoteTaking.csproj.AssemblyReference.cache
+C:\Users\egedi\source\repos\NoteTaking\NoteTaking\obj\Debug\net6.0-windows\NoteTaking.Form1.resources
+C:\Users\egedi\source\repos\NoteTaking\NoteTaking\obj\Debug\net6.0-windows\NoteTaking.csproj.GenerateResource.cache
+C:\Users\egedi\source\repos\NoteTaking\NoteTaking\obj\Debug\net6.0-windows\NoteTaking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egedi\source\repos\NoteTaking\NoteTaking\obj\Debug\net6.0-windows\NoteTaking.AssemblyInfoInputs.cache
+C:\Users\egedi\source\repos\NoteTaking\NoteTaking\obj\Debug\net6.0-windows\NoteTaking.AssemblyInfo.cs
+C:\Users\egedi\source\repos\NoteTaking\NoteTaking\obj\Debug\net6.0-windows\NoteTaking.csproj.CoreCompileInputs.cache
+C:\Users\egedi\source\repos\NoteTaking\NoteTaking\obj\Debug\net6.0-windows\NoteTaking.dll
+C:\Users\egedi\source\repos\NoteTaking\NoteTaking\obj\Debug\net6.0-windows\refint\NoteTaking.dll
+C:\Users\egedi\source\repos\NoteTaking\NoteTaking\obj\Debug\net6.0-windows\NoteTaking.pdb
+C:\Users\egedi\source\repos\NoteTaking\NoteTaking\obj\Debug\net6.0-windows\NoteTaking.genruntimeconfig.cache
+C:\Users\egedi\source\repos\NoteTaking\NoteTaking\obj\Debug\net6.0-windows\ref\NoteTaking.dll
